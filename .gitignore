@@ -1,0 +1,29 @@
+# =========================================================
+# Artefatos de QA, referência e capturas usados na recriação
+# Não fazem parte do site publicado.
+# =========================================================
+qa-*.html
+qa-*.png
+test-*.png
+shot-*.png
+_qa-*
+logo-sheet*
+logo-urls.txt
+logo-results.txt
+wiki-logos.txt
+python-runs/
+__pycache__/
+*.py[cod]
+1/
+image.png
+
+# Cópias do currículo na raiz (a versão publicada está em assets/)
+/cv_claudio.pdf
+/CV_ClaudioSousa.pdf
+
+# Sistema operacional / editores
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
